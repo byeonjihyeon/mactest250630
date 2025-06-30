@@ -9,4 +9,5 @@ import lombok.NoArgsConstructor;
 @Data
 public class Admin {
 	private int memberNo;
+	//맥에서 주석 작성.. 되라 제발..250630
 }
